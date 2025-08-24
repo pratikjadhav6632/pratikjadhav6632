@@ -69,7 +69,7 @@
 ### 🔹 [WonderNest](https://github.com/pratikjadhav6632/WonderNest)  
 A hotel & room booking platform using **Node.js, Express, MongoDB, and EJS**.  
 [![GitHub Repo](https://img.shields.io/badge/Repo-000?logo=github&logoColor=white)](https://github.com/pratikjadhav6632/WonderNest)  
-[![Live Demo](https://img.shields.io/badge/Demo-007ACC?logo=vercel&logoColor=white)](#)  
+[![Live Demo](https://img.shields.io/badge/Demo-007ACC?logo=vercel&logoColor=white)](https://wondernest-zi50.onrender.com/)  
 
 ---
 
