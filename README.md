@@ -64,33 +64,54 @@
 </p>
 
 
-## 🚀 Projects  
+## 📂 Projects  
 
-### 🔹 [WonderNest](https://github.com/pratikjadhav6632/WonderNest)  
-A hotel & room booking platform using **Node.js, Express, MongoDB, and EJS**.  
-[![GitHub Repo](https://img.shields.io/badge/Repo-000?logo=github&logoColor=white)](https://github.com/pratikjadhav6632/WonderNest)  
-[![Live Demo](https://img.shields.io/badge/Demo-007ACC?logo=vercel&logoColor=white)](https://wondernest-zi50.onrender.com/)  
-
----
-
-### 🔹 [ChatApp](https://github.com/pratikjadhav6632/ChatApp)  
-Real-time chat application using **MongoDB + Express** (CRUD-based learning project).  
-[![GitHub Repo](https://img.shields.io/badge/Repo-000?logo=github&logoColor=white)](https://github.com/pratikjadhav6632/ChatApp)  
-[![Live Demo](https://img.shields.io/badge/Demo-007ACC?logo=vercel&logoColor=white)](#)  
-
----
-
-### 🔹 [Foundrr](https://github.com/pratikjadhav6632/Foundrr) *(WIP)*  
-A platform for entrepreneurs to **find co-founders, mentors, and investors** with real-time chat & Firebase integration.  
-[![GitHub Repo](https://img.shields.io/badge/Repo-000?logo=github&logoColor=white)](https://github.com/pratikjadhav6632/Foundrr)  
-[![Live Demo](https://img.shields.io/badge/Demo-007ACC?logo=vercel&logoColor=white)](#)  
-
----
-
-### 🔹 [Gaplify](https://github.com/pratikjadhav6632/Gaplify)  
-A career guidance platform helping students & freshers bridge the **skills vs industry gap**.  
-[![GitHub Repo](https://img.shields.io/badge/Repo-000?logo=github&logoColor=white)](https://github.com/pratikjadhav6632/Gaplify)  
-[![Live Demo](https://img.shields.io/badge/Demo-007ACC?logo=vercel&logoColor=white)](#)  
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🔹 <a href="https://github.com/pratikjadhav6632/WonderNest">WonderNest</a></h3>
+      <p>Hotel & room booking platform built with <b>Node.js, Express, MongoDB, and EJS</b>.</p>
+      <p>
+        <a href="https://github.com/pratikjadhav6632/WonderNest">
+          <img src="https://img.shields.io/badge/Repo-000?logo=github&logoColor=white"/>
+        </a>
+        <a href="https://wondernest-zi50.onrender.com/">
+          <img src="https://img.shields.io/badge/Demo-007ACC?logo=vercel&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🔹 <a href="https://github.com/pratikjadhav6632/ChatApp">ChatApp</a></h3>
+      <p>Real-time chat application using <b>MongoDB + Express</b> (CRUD-based learning project).</p>
+      <p>
+        <a href="https://github.com/pratikjadhav6632/ChatApp">
+          <img src="https://img.shields.io/badge/Repo-000?logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%">
+      <h3>🔹 <a href="https://github.com/pratikjadhav6632/Foundrr">Foundrr</a> (WIP)</h3>
+      <p>A platform for entrepreneurs to <b>find co-founders, mentors & investors</b> with Firebase-powered real-time chat.</p>
+      <p>
+        <a href="https://github.com/pratikjadhav6632/Foundrr">
+          <img src="https://img.shields.io/badge/Repo-000?logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🔹 <a href="https://github.com/pratikjadhav6632/Gaplify">Gaplify</a></h3>
+      <p>Career guidance platform to bridge the <b>skills vs industry gap</b> for students & freshers.</p>
+      <p>
+        <a href="https://github.com/pratikjadhav6632/Gaplify">
+          <img src="https://img.shields.io/badge/Repo-000?logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
